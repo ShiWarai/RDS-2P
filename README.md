@@ -11,10 +11,14 @@
 
 ## Медиа
 
-Кликабельные превью (GIF) для GitHub:
+- **Симуляция (mp4)**: [`media/sim_walk.mp4`](media/sim_walk.mp4)
+- **Реальная ходьба (mp4)**: [`media/real_walk.mp4`](media/real_walk.mp4)
 
-- **Симуляция** (клик → mp4): [![sim](media/sim_walk_preview.gif)](media/sim_walk.mp4)
-- **Реальная ходьба** (клик → mp4): [![real](media/real_walk_preview.gif)](media/real_walk.mp4)
+Если хочется именно встроенный плеер в `README.md`, обычно GitHub отображает его только для видео, загруженных как *attachments* (ссылка вида `https://github.com/user-attachments/assets/...`). Тогда можно вставить так:
+
+```html
+<video src="https://github.com/user-attachments/assets/UUID" controls muted playsinline></video>
+```
 
 ## Репозитории проекта
 
