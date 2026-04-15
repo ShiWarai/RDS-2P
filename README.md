@@ -11,11 +11,11 @@
 
 ## Медиа
 
-- **Симуляция (mp4)**: 
-https://github.com/user-attachments/assets/ab09dd9e-bdcd-4f5c-9314-7c19417583f0
+- **Симуляция (mp4)**:
+  <video src="https://github.com/user-attachments/assets/ab09dd9e-bdcd-4f5c-9314-7c19417583f0" controls muted playsinline></video>
 
-- **Реальная ходьба (mp4)**: 
-https://github.com/user-attachments/assets/c01d0aca-3517-443b-962b-3441ccc42da0
+- **Реальная ходьба (mp4)**:
+  <video src="https://github.com/user-attachments/assets/c01d0aca-3517-443b-962b-3441ccc42da0" controls muted playsinline></video>
 
 ## Репозитории проекта
 
