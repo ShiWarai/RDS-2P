@@ -11,14 +11,11 @@
 
 ## Медиа
 
-- **Симуляция (mp4)**: [`media/sim_walk.mp4`](media/sim_walk.mp4)
-- **Реальная ходьба (mp4)**: [`media/real_walk.mp4`](media/real_walk.mp4)
+- **Симуляция (mp4)**: 
+https://github.com/user-attachments/assets/ab09dd9e-bdcd-4f5c-9314-7c19417583f0
 
-Если хочется именно встроенный плеер в `README.md`, обычно GitHub отображает его только для видео, загруженных как *attachments* (ссылка вида `https://github.com/user-attachments/assets/...`). Тогда можно вставить так:
-
-```html
-<video src="https://github.com/user-attachments/assets/UUID" controls muted playsinline></video>
-```
+- **Реальная ходьба (mp4)**: 
+https://github.com/user-attachments/assets/c01d0aca-3517-443b-962b-3441ccc42da0
 
 ## Репозитории проекта
 
